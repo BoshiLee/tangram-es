@@ -37,3 +37,9 @@
 [submodule "external/SQLiteCpp"]
 	path = core/deps/SQLiteCpp
 	url = https://github.com/SRombauts/SQLiteCpp.git
+[submodule "core/deps/geojson.hpp"]
+	path = core/deps/geojson.hpp
+	url = https://github.com/mapbox/geojson.hpp
+[submodule "core/deps/geometry.hpp"]
+	path = core/deps/geometry.hpp
+	url = https://github.com/mapbox/geometry.hpp
